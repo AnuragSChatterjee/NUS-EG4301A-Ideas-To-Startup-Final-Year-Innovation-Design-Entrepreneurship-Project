@@ -1,0 +1,2 @@
+# NUS-EG4301A-Ideas-To-Startup-Final-Year-Innovation-Design-Entrepreneurship-Project
+Our final year iDP entrepreneurship project where we aim to integrate different brands of devices into a single network for smarter homes to enable a more convenient lifestyle for Singaporeans. I have been entrusted with the responsibility of being the In-Charge of the Marketing, Design and Technical Architecture of the startup project.
